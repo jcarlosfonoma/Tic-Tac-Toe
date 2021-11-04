@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Square component Square should take a snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdvvtL fPtRnW"
+    data-testid="square-btn"
+  />
+</DocumentFragment>
+`;

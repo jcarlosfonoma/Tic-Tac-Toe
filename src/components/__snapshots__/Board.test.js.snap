@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component Board should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="board-row"
+    >
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+      <button
+        class="sc-bdvvtL fPtRnW"
+        data-testid="square-btn"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

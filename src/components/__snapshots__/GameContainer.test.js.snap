@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameContainer component GameContainer should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="game"
+  >
+    <div
+      class="game-board"
+    >
+      <div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+        </div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+        </div>
+        <div
+          class="board-row"
+        >
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+          <button
+            class="sc-bdvvtL fPtRnW"
+            data-testid="square-btn"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gsDKAQ gKFSjR"
+    >
+      <div
+        class="sc-dkPtRN hDBrjf"
+        data-testid="status-div"
+      >
+        Next player X
+      </div>
+      <ol
+        class="sc-hKwDye fqVKqO"
+      >
+        <li
+          class="sc-eCImPb jiTVab"
+        >
+          <button
+            class="sc-jRQBWg bShOYO"
+          >
+            Go to game start
+          </button>
+        </li>
+      </ol>
+    </div>
+  </div>
+</DocumentFragment>
+`;

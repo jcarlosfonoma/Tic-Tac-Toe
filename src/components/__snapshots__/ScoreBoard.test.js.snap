@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Square component Square should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL cYbEbw"
+  >
+    <span
+      class="sc-gsDKAQ dTgrTI"
+      data-testid="x-score-span"
+    >
+      X Wins: 0
+    </span>
+    <span
+      class="sc-gsDKAQ dTgrTI"
+      data-testid="o-score-span"
+    >
+      O Wins: 0
+    </span>
+    <span
+      class="sc-gsDKAQ dTgrTI"
+      data-testid="draws-span"
+    >
+      Draws: 0
+    </span>
+  </div>
+</DocumentFragment>
+`;
